@@ -1,2 +1,3 @@
 # ID2216_Native_APP
-based on expo
+It's a Native app
+Using React to develop
